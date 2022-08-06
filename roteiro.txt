@@ -1,0 +1,6 @@
+
+
+cd D:\TFM
+git clone https://github.com/tfm2022/bicimad.git
+D:\TFM\bicimad
+git status
