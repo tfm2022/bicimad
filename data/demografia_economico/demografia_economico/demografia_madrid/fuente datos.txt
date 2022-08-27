@@ -1,0 +1,7 @@
+https://www.madrid.es/portal/site/munimadrid -> El Ayuntamiento
+https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento?vgnextfmt=default&vgnextchannel=ce069e242ab26010VgnVCM100000dc0ca8c0RCRD -> Estadistica
+https://www.madrid.es/portales/munimadrid/ehttps://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Estadistica/?vgnextfmt=default&vgnextchannel=8156e39873674210VgnVCM1000000b205a0aRCRDs/Inicio/El-Ayuntamiento/Estadistica/?vgnextfmt=default&vgnextchannel=8156e39873674210VgnVCM1000000b205a0aRCRD -> Banco de Datos 
+http://www-2.munimadrid.es/CSE6/jsps/menuBancoDatos.jsp -> Banco de Datos
+http://www-2.munimadrid.es/CSE6/control/menuCSE -> C. Demografía y Población
+http://www-2.munimadrid.es/CSE6/control/menuCSE -> Población mensual por distritos, barrios y secciones; Población por distrito y barrio
+http://www-2.munimadrid.es/TSE6/control/seleccionDatosBarrio
